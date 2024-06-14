@@ -3,7 +3,7 @@ I developed an autonomous vehicle with multi-mode operations, enabling joystick 
 
 
 
-<img src="https://github.com/christiandi0r/Autonomous-Vehicle/assets/109180938/e9f51056-9443-47a9-8dfc-d4eca7257916" width="700" height="400">
+<img src="https://github.com/christiandi0r/Autonomous-Vehicle/assets/109180938/e9f51056-9443-47a9-8dfc-d4eca7257916" width="700" height="600">
 
 
 
