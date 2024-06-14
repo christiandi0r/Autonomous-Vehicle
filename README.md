@@ -2,7 +2,8 @@
 I developed an autonomous vehicle with multi-mode operations, enabling joystick control through the ArduinoBlue application. The vehicle has the following features: Control via Joystick, Autonomous Driving, Line Tracking, Data Recording, and Crash Avoidance
 
 
-![Final Project](https://github.com/christiandi0r/Autonomous-Vehicle/assets/109180938/e9f51056-9443-47a9-8dfc-d4eca7257916 width="200" height="400")
+
+<img src="https://github.com/christiandi0r/Autonomous-Vehicle/assets/109180938/e9f51056-9443-47a9-8dfc-d4eca7257916" width="200" height="400">
 
 
 
